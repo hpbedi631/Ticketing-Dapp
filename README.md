@@ -3,7 +3,7 @@
 1. Clone the project
 
 ```bash
-git clone https://github.com/Henrywu96/Use-Case-Dapp.git
+git clone https://github.com/hpbedi631/TicketingDapp.git
 ```
 
 2. Install npm
