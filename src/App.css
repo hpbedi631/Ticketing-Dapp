@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+#page {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: chocolate;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#ticket-nav {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+.dropdown {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+
+.dropdown-item:hover {
+    background-color: aquamarine;
+    color: coral;
+}
+
+.div-container {
+    background-color: darksalmon;
+}
+
+.form-control {
+    background-color: bisque;
+}
+
+.form-control:hover {
+    background-color: blanchedalmond;
+}
+
+#button-addon2 {
+    background-color: rgb(129, 202, 204);
+    color: antiquewhite;
+    border: none;
+}
+
+#button-addon2:hover {
+    background-color: cadetblue;
+}
+
+.input-group {
+    display: flex;
+    justify-content: center;
+}
